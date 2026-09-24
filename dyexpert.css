@@ -354,3 +354,23 @@ footer{background:#061421!important}
 .hero-benefits-grid,.faq-list details{border-color:#C9F2EF!important;}
 .hero-actions .appointment-action{background:#050505!important;background-image:none!important;color:#fff!important;border:1px solid #050505!important;box-shadow:0 8px 24px rgba(0,0,0,.22)!important;}
 .hero-actions .appointment-action:hover{background:#1A1A1A!important;background-image:none!important;border-color:#1A1A1A!important;}
+
+/* DyExpert Sevilla — eliminación total de violeta visible */
+:root{
+ --green:#10BFB8!important;--green-dark:#079C96!important;--green-darker:#06746F!important;
+ --dp-blue:#079C96!important;--dp-royal:#10BFB8!important;--dp-magenta:#22D3EE!important;
+ --bg-light-green:#ECFEFC!important;--bg-light-green-2:#F4FFFE!important;--border-light:#C9F2EF!important;
+}
+.logo-word,.logo-word em,.footer-logo-word,.footer-logo-word em,footer .footer-logo .logo-word,footer .footer-logo .logo-word em{color:#fff!important;}
+.hero h1 .accent,.title-accent,.fast-heading .title-accent,.faq-section .title-accent,.seo-text .title-accent{color:#079C96!important;}
+.faq-section .eyebrow,.faq-section .eyebrow *{color:#079C96!important;}
+.faq-section .eyebrow .line{background:#10BFB8!important;}
+.faq-list summary::before{color:#10BFB8!important;}
+.faq-list details[open]{border-color:#8DE9E4!important;}
+.faq-list details[open] summary{color:#06746F!important;}
+.footer-brand-note,.footer-col ul li a,.footer-contact li,footer .footer-contact a{color:#C7D8E3!important;}
+footer .footer-contact li svg{color:#10BFB8!important;}
+.cookie-btn,.cookie-actions .cookie-btn,.cookie-actions a.cookie-btn{background:#10BFB8!important;color:#fff!important;}
+.cookie-btn:hover,.cookie-actions .cookie-btn:hover{background:#079C96!important;}
+.cookie-banner a:not(.cookie-btn){color:#8DE9E4!important;}
+.hero-actions .appointment-action{background:#050505!important;background-image:none!important;color:#fff!important;border-color:#050505!important;}
