@@ -1,4 +1,4 @@
-/* DyCenter: ilustración lineal visible, texto claramente separado de los trazos. */
+/* DyExpert: ilustración lineal visible, texto claramente separado de los trazos. */
 .why-us .why-image{
   position:relative;
   isolation:isolate;
@@ -35,15 +35,15 @@
   color:#fff;
   text-shadow:none;
 }
-.why-us .why-image .why-quote p em{color:#b5f5e9;}
+.why-us .why-image .why-quote p em{color:#C4B5FD;}
 .solutions-grid .sol-card .sol-icon svg.ic{
   display:block;width:29px;height:29px;flex-shrink:0;
-  color:var(--dp-royal,#c26f34);stroke:currentColor;fill:none;
+  color:var(--dp-royal,#7C5CFC);stroke:currentColor;fill:none;
   stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;
 }
 .why-list .why-item .why-icon svg.ic{
   display:block;width:22px;height:22px;flex-shrink:0;
-  color:#b5f0e3;stroke:currentColor;fill:none;
+  color:#A5F3FC;stroke:currentColor;fill:none;
   stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;
 }
 @media(max-width:640px){
