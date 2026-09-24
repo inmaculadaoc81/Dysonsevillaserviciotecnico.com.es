@@ -320,3 +320,19 @@ footer{background:#061421!important}
 @media(max-width:720px){
  .hero-vacuum-left{width:115px!important;left:2px!important;opacity:.08!important}
 }
+
+/* DyExpert Sevilla — ajustes finales de identidad */
+:root{
+  --green:#12B8B0;
+  --green-dark:#0E948E;
+  --green-darker:#08736E;
+  --dp-royal:#12B8B0;
+  --dp-magenta:#22D3EE;
+}
+.logo-word,.logo-word em,.footer-logo-word,.footer-logo-word em{color:#fff!important;}
+.appointment-action{background:#05080B!important;color:#fff!important;border-color:#05080B!important;}
+.appointment-action:hover{background:#171A1D!important;border-color:#171A1D!important;}
+.how{padding-bottom:96px!important;border-bottom:0!important;}
+.cta-banner-wrap{margin-top:0!important;padding-top:96px!important;background:#F5FBFB!important;border-top:12px solid #fff!important;}
+.contact-panel{margin-top:0!important;}
+.contact-map{background:#fff;}
