@@ -336,3 +336,21 @@ footer{background:#061421!important}
 .cta-banner-wrap{margin-top:0!important;padding-top:96px!important;background:#F5FBFB!important;border-top:12px solid #fff!important;}
 .contact-panel{margin-top:0!important;}
 .contact-map{background:#fff;}
+
+/* DyExpert Sevilla — identidad turquesa definitiva */
+:root{--green:#10BFB8!important;--green-dark:#079C96!important;--green-darker:#06746F!important;--dp-blue:#10BFB8!important;--dp-royal:#10BFB8!important;--dp-magenta:#22D3EE!important;--bg-light-green:#ECFEFC!important;--bg-light-green-2:#F4FFFE!important;--border-light:#C9F2EF!important;}
+.logo-word,.logo-word em,.footer-logo-word,.footer-logo-word em{color:#fff!important;}
+.btn-primary:not(.whatsapp-action):not(.appointment-action){background:linear-gradient(135deg,#18CFC7,#079C96)!important;color:#fff!important;}
+.title-accent,.hero h1 .accent,.eyebrow,.seo-kicker,.contact-phone a,.privacy-check a{color:#079C96!important;}
+.eyebrow .line,.why-quote .underline,.why-eyebrow .line{background:#10BFB8!important;}
+.hero-feature svg,.hero-info-item svg,.sol-icon,.faq-list summary::before{color:#10BFB8!important;}
+.how-num{background:linear-gradient(135deg,#18CFC7,#079C96)!important;box-shadow:0 8px 22px rgba(16,191,184,.25)!important;}
+.disclaimer-bar{background:linear-gradient(90deg,#06746F,#10BFB8,#06746F)!important;}
+.trust-card.google{background:linear-gradient(135deg,#10BFB8,#06746F)!important;}
+.why-image{background:linear-gradient(145deg,#079C96,#071C2F)!important;border-color:#10BFB8!important;}
+.why-eyebrow,.why-us h2 .title-accent,.why-quote em,.why-icon{color:#8DE9E4!important;}
+.faq-section,.hero-benefits-grid{background:#ECFEFC!important;}
+.hero-benefit-icon{background:#D9FAF7!important;color:#079C96!important;border-color:#A8EDE8!important;}
+.hero-benefits-grid,.faq-list details{border-color:#C9F2EF!important;}
+.hero-actions .appointment-action{background:#050505!important;background-image:none!important;color:#fff!important;border:1px solid #050505!important;box-shadow:0 8px 24px rgba(0,0,0,.22)!important;}
+.hero-actions .appointment-action:hover{background:#1A1A1A!important;background-image:none!important;border-color:#1A1A1A!important;}
