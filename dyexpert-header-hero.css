@@ -17,3 +17,6 @@ header .logo-word,header .logo-word em{color:#fff!important;}
 header .main-nav>a:not(.mobile-nav-cta):hover,header .main-nav>a:not(.mobile-nav-cta):focus-visible{color:#78E2DD!important;}
 header .nav-cta .btn-primary,header .main-nav .mobile-nav-cta{background:linear-gradient(125deg,#18CFC7,#079C96)!important;box-shadow:0 7px 20px rgba(16,191,184,.25)!important;}
 header .nav-cta .btn-primary:hover,header .main-nav .mobile-nav-cta:hover{background:linear-gradient(125deg,#27DDD5,#0AA8A1)!important;}
+
+.quote-action{background:#17a398!important;background-image:none!important;border-color:#17a398!important;color:#fff!important}
+.quote-action:hover{background:#128075!important}
